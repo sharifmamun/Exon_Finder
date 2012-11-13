@@ -6,7 +6,7 @@ The sequences of the code execution will be:
   2. result_handler.py
   3. frame_mapper.py
 
-It's possible to run all the scripts from the same file but for safety and dependancy with one another, I myself run them one after another.
+It's possible to run all the scripts from the same file but for safety and dependency with one another, I myself run them one after another.
 
 * checker.py files should exist in the same directory!!!
 
