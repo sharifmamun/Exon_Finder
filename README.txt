@@ -7,3 +7,14 @@ The sequences of the code execution will be:
   3. frame_mapper.py
 
 * checker.py files should exist in the same directory!!!
+
+Change needed!!! (Till everything is automated...)
+result_hnadler.py
+        | In main(): change the name of handle and hadle1 file names
+        | temp = grep("Ceraphronidae_sp", read_data)
+        | "Ceraphronidae_sp" should be replaced by the related string of the species.
+
+Change in helping script:
+-------------------------
+checker.check.py
+        | make sure you are looking for the perfect file: in handle2 variable!
